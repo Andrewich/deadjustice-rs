@@ -1,0 +1,13 @@
+[package]
+name = "deadjustice-rs"
+version = "0.0.1-dev"
+edition = "2021"
+categories = ["game-engines", "graphics", "gui", "rendering"]
+description = "Dead Justice -- 3D Action/Adventure Game Prototype. Created by game development company Cat Mother Ltd. (www.catmother.com) has now closed."
+homepage = "http://catmother.sourceforge.net/"
+keywords = ["game", "engine", "gamedev", "graphics", "deadjustice"]
+license = "BSD 3-Clause License"
+readme = "README.md"
+repository = "https://github.com/Andrewich/deadjustice-rs"
+
+[dependencies]
