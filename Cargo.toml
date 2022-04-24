@@ -1,6 +1,6 @@
 [package]
 name = "deadjustice-rs"
-version = "0.0.1-dev"
+version = "0.0.1-65"
 edition = "2021"
 categories = ["game-engines", "graphics", "gui", "rendering"]
 description = "Dead Justice -- 3D Action/Adventure Game Prototype. Created by game development company Cat Mother Ltd. (www.catmother.com) has now closed."
